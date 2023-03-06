@@ -1,0 +1,14 @@
+let hour=10
+if(hour<10)
+{
+    console.log("Hello less than 10")
+}
+else if(hour==10)
+{
+    console.log("Hello 10")
+}
+else
+{
+    console.log("Hello more than 10")
+}
+

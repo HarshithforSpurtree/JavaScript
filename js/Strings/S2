@@ -1,0 +1,3 @@
+const stringss="Harshith";
+console.log(stringss.concat("mejkj"))
+console.log(stringss)

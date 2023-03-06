@@ -1,0 +1,10 @@
+//This will be a primitive string
+const message="Harshith";
+
+
+//This will be a non primitive string
+const anotherMessage=new String("Hey man")
+
+
+console.log(typeof(message))
+console.log(typeof(anotherMessage))
